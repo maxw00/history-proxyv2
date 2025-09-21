@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.app {
+  text-align: center;
+  padding: 20px;
+}
+input {
+  width: 60%;
+  padding: 10px;
+}
+button {
+  margin-left: 10px;
+  padding: 10px 20px;
+}
+iframe {
+  margin-top: 20px;
+  border: none;
+}
